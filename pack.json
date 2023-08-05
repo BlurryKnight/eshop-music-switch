@@ -1,0 +1,10 @@
+{
+  "name": "Switch eShop",
+  "description": "This will put the unused Switch eShop theme found in the files of the switch on your deck!",
+  "author": "BlurryKnight",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
